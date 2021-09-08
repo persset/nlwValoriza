@@ -1,25 +1,11 @@
 ## NLW VALORIZA
 
-## Regras
+## Projeto Para Estudar Node.js
 
-- Cadastro de usuário
+Realizado o projeto da Next Level Week Together da Rocketseat para aprendizado na trilha nodejs. A partir do mesmo os conhecimentos serão utilizados para partir para novos projetos e desenvolver habilidades.
 
-  [ x ] Não é permitido cadastrar mais de um usuário com o mesmo e-mail
+## Situação Atual do Projeto:
 
-  [ x ] Não é permitido cadastrar usuário sem e-mail
+Atualmente o projeto conta com cadastro de usuários, tags e cumprimentos, assim como atribuição de cumprimentos de usuário para usuários e autenticação usando JWT.
 
-- Cadastro de TAG
-
-  [ x ] Não é permitido cadastrar mais de uma tag com o mesmo nome
-
-  [ x ] Não é permitido cadastrar tag sem nome
-
-  [ x ] Não é permitido cadastro por usuários que não sejam administradores
-
-- Cadastro de elogios
-
-  [ ] Não é permitido um usuário cadastrar um elogio para si
-
-  [ ] Não é permitido cadastrar elogios para usuários inválidos
-
-  [ ] O usuário precisa estar autenticado na aplicação
+## Foi Um Excelente Aprendizado ^^
